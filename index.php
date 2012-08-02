@@ -12,6 +12,6 @@
         
 	<div><a href="add_cols.php">Add Columns</a></div>
 	<br/>
-	<div><a href="../mstore/index.php">Store</a></div>
+	<div><a href="../mstore/admin/index.php?uid=100">Store</a></div>
 </body>
 </html>
