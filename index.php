@@ -23,6 +23,6 @@
         
 	<div><a href="add_cols.php">Add Columns</a></div>
 	<br/>
-	<div><a href="../mstore/admin/index.php?uid=499">Store</a></div>
+	<div><a href="../mnstore/admin/index.php?uid=499">Store</a></div>
 </body>
 </html>
